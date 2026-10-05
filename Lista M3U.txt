@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF: 0,Telemetro
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(BTAP-eaiGoGfMHjuqTdUYXMECoVjqSntQLVCse0MD62oOcnBwqC_kObgfMJ9x5odvb2cMwL38iwXGe603r3KvCp-2FKcnHolDpg_M1smMxzn_n6tch2mjX1ksR7lPSPA)/cloud/3/x8nlwwo/d/live-480.m3u8?startdate=2026-10-02T23%3A12%3A14%2B0000#cell=lcf2-eu-north-1b
